@@ -7,4 +7,5 @@ This study aims to explore the underlying epidemiological patterns within the In
 The original pre-processed dataset used in this study can be found in **Saptarshi-Bej's GitHub repository**.
 
 ## Methods
-- **Unsupervised Machine Learning**: Techniques such as UMAP, HDBSCAN, and TPA (Topological Data Analysis) were applied to analyze and uncover underlying socio-economic patterns within the dataset.
+- **Unsupervised Machine Learning**: Techniques including UMAP, HDBSCAN, and TPA (Topological Data Analysis) were applied to analyze and uncover underlying socio-economic patterns within the dataset.
+- Gower's distance was used to handle multiple feature types in the data (continuous, ordinal, and nominal variables).
